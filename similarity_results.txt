@@ -1,0 +1,35 @@
+
+Query word: soil
+timing: 0.4378
+pest: 0.3984
+ploughing: 0.3386
+selecting: 0.3368
+market: 0.3219
+
+Query word: seed
+rainfall: 0.7572
+varieties: 0.6746
+selecting: 0.5411
+manure: 0.5152
+forecast: 0.4552
+
+Query word: irrigation
+forecast: 0.6733
+to: 0.5696
+organic: 0.4801
+based: 0.4480
+resistance: 0.4237
+
+Query word: harvest
+applying: 0.7200
+market: 0.4173
+farmer: 0.4136
+timing: 0.4079
+fertigation: 0.3966
+
+Query word: pest
+levelling: 0.6608
+ploughing: 0.5845
+resistance: 0.4603
+drip: 0.4483
+soil: 0.3984
